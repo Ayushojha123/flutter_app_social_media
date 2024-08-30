@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # signin
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_app_social_media
+>>>>>>> c42b788843f870c0bc656b97df4991e04f3ca6a3
